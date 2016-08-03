@@ -6,6 +6,7 @@ namespace TestConsole
     {
         static void Main()
         {
+            //this is an example for explicit interface implementation  
             Itest test1 = new Test1();
             test1.Testmethod();
             Itest test2 = new Test2();
